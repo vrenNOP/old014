@@ -1,13 +1,14 @@
 As of Eighth of January, 2015
 ===
--Broken push+commit @sgit @android
--Cloned (renamed to #bug, create new with old name. push local)
--Edited .md #online
+
+* Broken push+commit @sgit @android
+* Cloned (renamed to #bug, create new with old name. push local)
+* Edited .md #online
 
 [Next]..
--pull from remote
--edit .md locally to show success
--push commit
+* pull from remote
+* edit .md locally to show success
+* push commit
 =FIN
 
 
