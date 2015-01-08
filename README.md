@@ -7,9 +7,16 @@ As of Eighth of January, 2015
 
 [Next]..
 * pull from remote
-* edit .md locally to show success
+* edit .md locally to show success//
 * push commit
 =FIN
+
+From @simplenote:
+@sgit @android
+; Cannot seem to reset @github local repo without manual
+; Tried to hit "reset" but that did... not much
+; #workaround: delete local, reimport.
+
 
 
 
