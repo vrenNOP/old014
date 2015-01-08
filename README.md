@@ -9,7 +9,7 @@ As of Eighth of January, 2015
 * pull from remote
 * edit .md locally to show success//
 * push commit
-=FIN
+=FIN//
 
 From @simplenote:
 @sgit @android
